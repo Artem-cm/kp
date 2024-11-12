@@ -1,0 +1,26 @@
+{
+    "files": [
+        "auth_manager.py",
+        "database.py",
+        "main.py",
+        "models/__init__.py",
+        "models/group.py",
+        "models/subject.py",
+        "models/teacher.py",
+        "ui/__init__.py",
+        "ui/add_subject_dialog.py",
+        "ui/add_teacher_dialog.py",
+        "ui/assign_workload_dialog.py",
+        "ui/edit_subject_dialog.py",
+        "ui/edit_teacher_dialog.py",
+        "ui/edit_teacher_profile_dialog.py",
+        "ui/edit_workload_dialog.py",
+        "ui/head_window.py",
+        "ui/login_dialog.py",
+        "ui/login_window.py",
+        "ui/main_window.py",
+        "ui/schedule_window.py",
+        "ui/teacher_window.py",
+        "workload_manager.py"
+    ]
+}
